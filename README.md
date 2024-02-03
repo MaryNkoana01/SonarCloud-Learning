@@ -1,2 +1,1 @@
-# CodeQL-Learning
 # SonarCloud-Learning
