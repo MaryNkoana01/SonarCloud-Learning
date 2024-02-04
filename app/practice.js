@@ -12,7 +12,7 @@ function divideNumbers(a, b) {
     }
 }
 
-const result = divideNumbers(10, 2);
+const result = divideNumbers(10, 1);
 
 if (result !== null) {
     console.log(`The result is: ${result}`);
